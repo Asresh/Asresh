@@ -1,23 +1,19 @@
 # 👋 Hello, I'm Asresh!
 
-### 👨‍💻 Hardware Engineer | Aspiring Product Manager | Entrepreneurial Spirit  
-Welcome to my GitHub! I'm a passionate individual with a strong foundation in **VLSI RTL Design** and **Design Verification** and a vision of expanding my horizons into product management and entrepreneurship.
+### 👨‍💻 Hardware Engineer | Building and deplyoing MicroSaas Products
+Welcome to my GitHub! I'm a passionate individual with a strong foundation in **VLSI RTL Design** and **Design Verification** and a vision of expanding my horizons into building Micro-Saas products.
 
 ---
 
 ## 🔭 Current Focus
 - **Hardware Engineering**: Working at Cisco as a full-time RTL Design Engineer.
-- **Side Projects**: Building innovative tools with **LLMs** and **AI** to solve real-world problems.
-- **Startups**: Pursuing a goal of creating **12 startups in 12 months**, exploring easy-to-implement and profitable ideas.
-- **Itinerary Planning Website**: Developing **Trip Ezzz**, a platform to generate travel plans and connect travelers using **React.js**, **Node.js**, and **OpenAI API**.
-
+- **Side Projects**: Building innovative Micro-Saas with **ChatGPT** to solve interesting real-world problems.
+- **Startups**: Pursuing a goal of creating **12 websites in 12 months**, exploring easy-to-implement and profitable ideas.
 ---
 
 ## 🧑‍🎓 Background
-- **Education**: Master's in Computer Engineering (VLSI specialization) from **NCSU**.
-- **Skills**: VLSI Design, Design Verification, Python, React.js, Node.js.
-- **Finance Enthusiast**: Interested in creating financial plans to diversify income streams.
-
+- **Education**: Master's in Computer Engineering from **NCSU**.
+- **Skills**: Python, React.js, Node.js, C++, C, Scripting, 
 ---
 
 ## 🚀 Goals
@@ -28,9 +24,8 @@ Welcome to my GitHub! I'm a passionate individual with a strong foundation in **
 ---
 
 ## 🌟 Fun Facts
-- 🎨 **Creative Pursuits**: I love photography and video editing—creativity is my happy place!
+- 🎨 **Creative Pursuits**: I love traveling, badminton, anime, chess and adventures—creativity is my happy place!
 - 🌍 **Globetrotter**: Exploring scenic destinations like Yosemite and Boulder, always in search of the next adventure.
-- 📚 **Aspiring Virtual Assistant**: Dreaming of building a platform that supports busy professionals in managing their tasks effectively.
 
 ---
 
