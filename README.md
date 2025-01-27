@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate individual with a strong foundation in **
 
 ## 🔭 Current Focus
 - **Hardware Engineering**: Working at Cisco as a full-time RTL Design Engineer.
-- **Side Projects**: Building innovative Micro-Saas with **ChatGPT** to solve interesting real-world problems.
+- **Side Projects**: Building innovative Micro-Saas Products with **ChatGPT/AI tools** to solve interesting real-world problems.
 - **Startups**: Pursuing a goal of creating **12 websites in 12 months**, exploring easy-to-implement and profitable ideas.
 ---
 
