@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Asresh!
 
-### 👨‍💻 Hardware Engineer | Building and deplyoing MicroSaas Products
+### 👨‍💻 Hardware Engineer | Building and deploying MicroSaas Products
 Welcome to my GitHub! I'm a passionate individual with a strong foundation in **VLSI RTL Design** and **Design Verification** and a vision of expanding my horizons into building Micro-Saas products.
 
 ---
