@@ -38,8 +38,8 @@ Feel free to explore my repositories and reach out! Together, we can create impa
 ---
 
 ## 🌐 Links
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/asresh-kuricheti/)  
-- **Portfolio/Website**: [Your Website](https://www.example.com)  
+- **LinkedIn**: https://www.linkedin.com/in/asresh-kuricheti/  
+- **Portfolio/Website**: [Your Website](https://www.example.com)  Coming soon
 
 ---
 
