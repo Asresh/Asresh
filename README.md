@@ -12,11 +12,6 @@ Welcome to my GitHub! I'm a passionate individual with a strong foundation in **
 - **Education**: Master's in Computer Engineering from **NCSU**.
 - **Skills**: Verilog, System Verilog, UVM, Python, React.js, Node.js, C++, C, Scripting, AI tools
 ---
-## 🚀 Goals
-1. Transition into **Product Management** as a step towards my ultimate dream of becoming a **CEO** or achieving **upper management roles**.
-2. Develop engaging, user-centric platforms like **Trip Ezzz**.
-3. Learn and grow in **observational humor** to enhance communication and make conversations more engaging.
----
 ## 💬 Let's Connect!
 - 📝 Always open to **collaborating** on exciting projects or brainstorming **startup ideas**.
 - 🛠️ Actively learning and experimenting with new technologies—**let's build something awesome together**!
