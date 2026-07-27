@@ -1,27 +1,49 @@
-# 👋 Hello, I'm Asresh!
+# Hi, I'm Asresh Kuricheti 👋
 
-### 👨‍💻 Hardware Engineer | Building and deploying MicroSaas Products
-Welcome to my GitHub! I'm a passionate individual with a strong foundation in **VLSI RTL Design** and **Design Verification** and I have a hobby of building Micro-Saas products.
----
-## 🔭 Current Focus
-- **Hardware Engineering**: Working at Cisco as a full-time RTL Design Engineer.
-- **Side Projects**: Building innovative Micro-Saas Products with **ChatGPT/AI tools** to solve interesting real-world problems.
-- **Startups**: Pursuing a goal of creating **12 websites in 12 months**, exploring easy-to-implement and profitable ideas.
----
-## 🧑‍🎓 Background
-- **Education**: Master's in Computer Engineering from **NCSU**.
-- **Skills**: Verilog, System Verilog, UVM, Python, React.js, Node.js, C++, C, Scripting, AI tools
----
-## 💬 Let's Connect!
-- 📝 Always open to **collaborating** on exciting projects or brainstorming **startup ideas**.
-- 🛠️ Actively learning and experimenting with new technologies—**let's build something awesome together**!
+### RTL Design Engineer at Cisco · AI MVP Builder
 
-Feel free to explore my repositories and reach out! Together, we can create impactful solutions. 😊
----
-## 🌐 Links
-- **LinkedIn**: https://www.linkedin.com/in/asresh-kuricheti/  
-- **Portfolio/Website**: [Your Website](https://www.example.com)  Coming soon
----
-With passion and persistence,  
-**Asresh**
- 
+I build reliable hardware systems by day and turn practical ideas into focused, AI-powered products. My work sits at the intersection of **VLSI/verification**, **software engineering**, and **rapid product development**.
+
+If you have an idea to validate, I can help shape it into a clear, usable MVP—from the first user flow and interface through the application logic and AI integration.
+
+## What I build
+
+- **AI-powered MVPs** — focused tools that solve a real workflow or customer problem
+- **Web products** — polished, responsive experiences with React, TypeScript, Python, and Node.js
+- **Decision and productivity tools** — assistants for analysis, recommendations, communication, and planning
+- **Hardware verification systems** — RTL design, SystemVerilog, UVM, and verification workflows
+
+## Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [ScopeGuard](https://github.com/Asresh/ScopeGuard) | Helps freelancers identify scope creep, estimate change orders, and draft client replies. |
+| [ToneShift](https://github.com/Asresh/ToneShift) | Rewrites messages for the right tone and context. |
+| [Moodiflix](https://github.com/Asresh/Moodiflix) | Recommends movies and shows based on mood. |
+| [MoodyReads](https://github.com/Asresh/MoodyReads) | Suggests books based on a reader's mood and preferences. |
+| [Trip-Ezzz](https://github.com/Asresh/Trip-Ezzz) | Simplifies itinerary creation and trip planning. |
+
+## From idea to MVP
+
+I enjoy taking an early concept and making it tangible quickly:
+
+1. **Clarify the problem** — identify the user, the pain point, and the smallest valuable feature set.
+2. **Design the experience** — create an intuitive flow that makes the product easy to understand.
+3. **Build and integrate** — develop the frontend, backend, data flows, and AI features where they add real value.
+4. **Launch and learn** — put a working version in front of users and iterate on feedback.
+
+Whether you're testing a startup idea, streamlining an internal workflow, or exploring an AI feature, I focus on building the smallest product that delivers a useful result.
+
+## Technology I work with
+
+`SystemVerilog` · `Verilog` · `UVM` · `Python` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `C++` · `AI APIs`
+
+## Background
+
+- RTL Design Engineer at **Cisco**
+- M.S. in Computer Engineering from **NC State University**
+- Interested in practical AI, product experimentation, and systems that solve everyday problems
+
+## Let's build something useful
+
+Have an MVP idea or an automation problem worth solving? [Connect with me on LinkedIn](https://www.linkedin.com/in/asresh-kuricheti/) and let's talk.
