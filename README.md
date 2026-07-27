@@ -1,8 +1,8 @@
 # Hi, I'm Asresh Kuricheti 👋
 
-### RTL Design Engineer at Cisco · AI MVP Builder
+### RTL Design Engineer at Cisco · Building AI Apps as a Side Hobby
 
-I build reliable hardware systems by day and turn practical ideas into focused, AI-powered products. My work sits at the intersection of **VLSI/verification**, **software engineering**, and **rapid product development**.
+I build reliable hardware systems at Cisco and, outside of work, enjoy turning practical ideas into focused, AI-powered applications. My side projects sit at the intersection of **VLSI/verification**, **software engineering**, and **rapid product development**.
 
 If you have an idea to validate, I can help shape it into a clear, usable MVP—from the first user flow and interface through the application logic and AI integration.
 
@@ -25,7 +25,7 @@ If you have an idea to validate, I can help shape it into a clear, usable MVP—
 
 ## From idea to MVP
 
-I enjoy taking an early concept and making it tangible quickly:
+As a side-project builder, I enjoy taking an early concept and making it tangible quickly:
 
 1. **Clarify the problem** — identify the user, the pain point, and the smallest valuable feature set.
 2. **Design the experience** — create an intuitive flow that makes the product easy to understand.
@@ -41,6 +41,7 @@ Whether you're testing a startup idea, streamlining an internal workflow, or exp
 ## Background
 
 - RTL Design Engineer at **Cisco**
+- Build AI apps and product experiments as a **side hobby**
 - M.S. in Computer Engineering from **NC State University**
 - Interested in practical AI, product experimentation, and systems that solve everyday problems
 
