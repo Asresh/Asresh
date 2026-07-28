@@ -6,6 +6,8 @@
 
 I live at the intersection of **VLSI / verification**, **full-stack software**, and **rapid product building** — taking an idea from a napkin sketch to a working, AI-integrated MVP.
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hardware+Engineer+%40+Cisco;I+turn+ideas+into+AI-powered+MVPs;VLSI+%C2%B7+Full-stack+%C2%B7+Rapid+prototyping" alt="typing banner" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asresh-kuricheti/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Asresh&style=for-the-badge&color=8B5CF6&label=Profile+Views)
 ![Focus](https://img.shields.io/badge/Focus-Idea%20%E2%86%92%20MVP-06B6D4?style=for-the-badge)
@@ -105,6 +107,19 @@ I live at the intersection of **VLSI / verification**, **full-stack software**, 
 | [Noise-Reduction](https://github.com/Asresh/Noise-Reduction-Using-Signal-Processing) | Audio denoising via spectral-gating signal processing (NumPy/SciPy). |
 | [LeetCode-Problems](https://github.com/Asresh/LeetCode-Problems) | Curated, solved LeetCode problems for algorithms and data structures. |
 | [Coding-practice](https://github.com/Asresh/Coding-practice) | Coding exercises and interview prep across core CS fundamentals. |
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asresh&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=8B5CF6&icon_color=06B6D4" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asresh&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=8B5CF6" alt="Top languages" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asresh&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=ffffff&area=true&area_color=8B5CF6" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
