@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24&height=230&section=header&text=Asresh%20Kuricheti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=RTL%20Engineer%20%40%20Cisco%20%C2%B7%20I%20turn%20ideas%20into%20AI-powered%20products&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Asresh%20Kuricheti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=RTL%20Engineer%20%40%20Cisco%20%C2%B7%20I%20turn%20ideas%20into%20AI-powered%20products&descAlignY=54&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=750&color=A78BFA&center=true&vCenter=true&width=760&lines=RTL+Design+Engineer+%40+Cisco;I+turn+ideas+into+AI-powered+products;Hardware+%E2%86%94+AI+%E2%86%94+Full-stack%2C+end+to+end;20%2B+products+shipped%3A+idea+%E2%86%92+launched" alt="typing banner" />
@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=Tech%20Arsenal&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Tech%20Arsenal&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=Flagship%20Builds&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Flagship%20Builds&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 > My most complex work — real retrieval pipelines, multi-agent orchestration, payments, and hardware verification.
 
@@ -67,7 +67,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=Daily%20Builds&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Daily%20Builds&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 > A fresh design — written, simulated, and pushed — **every single day**. Consistency compounds.
 
@@ -79,7 +79,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=Everything%20I%27ve%20Built&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Everything%20I%27ve%20Built&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 ### 🧠 AI decision & productivity tools
 | Project | One-liner |
@@ -116,7 +116,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=How%20I%20Work&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=How%20I%20Work&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 ```text
 1. Frame    →  Who is the user, and what's the smallest thing that creates real value?
@@ -129,7 +129,7 @@ I lead each build the way I'd lead a team: **a clear problem, decisive scope, en
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,24&height=54&text=Background&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Background&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 - 🛠️ **RTL Design Engineer** at **Cisco** — VLSI, RTL, and verification
 - 🌙 Build and launch AI apps as a **relentless side pursuit** — 20+ products and counting
@@ -147,6 +147,6 @@ I lead each build the way I'd lead a team: **a clear problem, decisive scope, en
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asresh-kuricheti/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,24&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer" width="100%"/>
 
 </div>
