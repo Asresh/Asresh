@@ -27,16 +27,6 @@
 
 <br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asresh/Asresh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asresh/Asresh/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Asresh/Asresh/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,12,20,30&height=54&text=Tech%20Arsenal&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%"/>
 
 <div align="center">
