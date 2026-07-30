@@ -59,21 +59,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=GitHub%20Stats&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asresh&show_icons=true&hide_border=true&theme=tokyonight&icon_color=A78BFA&title_color=A78BFA&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=Asresh&hide_border=true&theme=tokyonight&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="github streak" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asresh&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&langs_count=10" alt="top languages" />
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=Hardware%20Engineering&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 > My core discipline. I ship a **new hardware design every day** across four portfolios — each one parameterized RTL with a **self-checking testbench** simulated end-to-end in Icarus Verilog. Below is every project, by track.
@@ -193,19 +178,6 @@
 | [Noise-Reduction](https://github.com/Asresh/Noise-Reduction-Using-Signal-Processing) | Audio denoising via spectral-gating signal processing (NumPy/SciPy). |
 | [LeetCode-Problems](https://github.com/Asresh/LeetCode-Problems) | Curated, solved LeetCode problems for algorithms and data structures. |
 | [Coding-practice](https://github.com/Asresh/Coding-practice) | Coding exercises and interview prep across core CS fundamentals. |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=54&text=How%20I%20Work&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
-
-```text
-1. Frame    →  Who is the user, and what's the smallest thing that creates real value?
-2. Decide   →  Choose the architecture, scope, and trade-offs — and own them.
-3. Build    →  Ship the full stack: RTL or frontend, backend, data, and AI where it earns its place.
-4. Verify   →  Prove it works — self-checking testbenches, differential tests, real users.
-```
-
-Whether it's an accelerator or an app, I bring the same habit: **a clear problem, decisive scope, end-to-end ownership, and something proven to work** — not a demo, a design that's been verified.
 
 <br/>
 
